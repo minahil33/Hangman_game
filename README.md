@@ -1,9 +1,9 @@
 # Hangman Game 🎮 (Python)
-Overview
+# Overview
 
 This is a simple Hangman game implemented in Python. The computer randomly selects a word from a predefined list, and the player has to guess it letter by letter. The player has six chances to make wrong guesses before the game ends. With every incorrect guess, the hangman figure progresses until either the player wins by finding the word or loses when all attempts are used.
 
-Features
+# Features
 
 Random word selection from a list.
 
@@ -17,7 +17,7 @@ Shows hangman drawing after each wrong attempt.
 
 Ends with a clear win or loss message.
 
-How It Works
+# How It Works
 
 A word is chosen randomly from a stored list.
 
@@ -31,7 +31,7 @@ If the letter is wrong, the number of attempts decreases and the hangman figure 
 
 The game continues until the word is fully guessed or no attempts are left.
 
-Gameplay Flow
+# Gameplay Flow
 
 Start: The game shows the hidden word as underscores.
 
@@ -45,7 +45,7 @@ Win Condition: All letters are guessed before attempts run out.
 
 Lose Condition: Six wrong attempts lead to game over, and the correct word is revealed.
 
-Sample Playthrough
+# Sample Playthrough
 
 Hidden word: _ _ _ _ _
 
