@@ -1,4 +1,4 @@
-Hangman Game 🎮 (Python)
+# Hangman Game 🎮 (Python)
 Overview
 
 This is a simple Hangman game implemented in Python. The computer randomly selects a word from a predefined list, and the player has to guess it letter by letter. The player has six chances to make wrong guesses before the game ends. With every incorrect guess, the hangman figure progresses until either the player wins by finding the word or loses when all attempts are used.
